@@ -58,4 +58,4 @@ async def info(ctx, name):
 
             
 
-client.run('MTAxNzcwNjIyMjIxMzkzOTI3MA.GO1-Lf.O5iSzvafXZ_yPAxVMmRwri9wbwhyVmbm7knUak')
+client.run('enter token value')
